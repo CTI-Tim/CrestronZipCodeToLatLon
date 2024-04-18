@@ -1,6 +1,9 @@
 // Convert zipcode to Lat and Long for astronomical clock
 // Written by Tim Gray @ Crestron Technical Institute
-// Copyright 2024  Free for use by Crestron Dealers and their customers.
+// Copyright 2024  Free for use by Crestron Dealers and their customers. 
+// GMT output specifies the time difference in hours from Greenwich
+// Mean Time and is always based on non-Daylight Saving Time.
+//This matches the requirement for the astronomical clock symbol
 
 #CATEGORY "46" "Location Translation" // Custom 
 #User_SimplSharp_Library "4SeriesZipcodeToLatLon"   

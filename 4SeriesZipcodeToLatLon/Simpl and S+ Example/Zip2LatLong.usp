@@ -1,0 +1,47 @@
+// Convert zipcode to Lat and Long for astronomical clock
+// Written by Tim Gray @ Crestron Technical Institute
+// Copyright 2024  Free for use by Crestron Dealers and their customers.
+
+#CATEGORY "46" "Location Translation" // Custom 
+#User_SimplSharp_Library "4SeriesZipcodeToLatLon"   
+#Help_Begin
+works for 5 digit US zipcodes only
+information is output only on program start  
+Bad zipcode will output 0,0
+#Help_End
+
+
+Digital_Output 	LocationEast, 
+				LocationNorth, 
+				_skip_;
+Analog_Output 	LatitudeDegrees,
+			 	LatitudeMinutes, 
+			 	_skip_,
+			 	LongitudeDegrees,
+			 	LongitudeMinutes,
+			 	_skip_,
+			 	GMTOffset;
+// Works for US  5 digit zipcodes and Canada short codes
+String_Parameter 	_skip_,_skip_,_skip_,_skip_,_skip_,
+					_skip_,_skip_,_skip_,_skip_,_skip_, 
+					_skip_,
+					ZipCode[5];
+
+// Bring in the class
+GetLatLongFromZip Location;
+
+
+Function Main()
+{
+ 	 WaitForInitializationComplete();    
+ 	 Location.GetLocation(ZipCode);
+ 	 
+ 	 LocationEast = Location.lonEast;
+ 	 LocationNorth = Location.latNorth;
+ 	 LatitudeDegrees = Location.latDeg;
+ 	 LatitudeMinutes = Location.latMin;
+ 	 LongitudeDegrees = Location.lonDeg;
+ 	 LongitudeMinutes = Location.lonMin;
+ 	 GMTOffset = Location.GMTOffset;
+}
+

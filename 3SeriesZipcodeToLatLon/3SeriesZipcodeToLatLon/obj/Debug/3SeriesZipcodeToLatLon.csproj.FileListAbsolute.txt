@@ -1,0 +1,17 @@
+C:\vs2008Projects\3SeriesZipcodeToLatLon\3SeriesZipcodeToLatLon\bin\Debug\3SeriesZipcodeToLatLon.dll
+C:\vs2008Projects\3SeriesZipcodeToLatLon\3SeriesZipcodeToLatLon\bin\Debug\3SeriesZipcodeToLatLon.pdb
+C:\vs2008Projects\3SeriesZipcodeToLatLon\3SeriesZipcodeToLatLon\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\vs2008Projects\3SeriesZipcodeToLatLon\3SeriesZipcodeToLatLon\bin\Debug\SimplSharpHelperInterface.dll
+C:\vs2008Projects\3SeriesZipcodeToLatLon\3SeriesZipcodeToLatLon\bin\Debug\Newtonsoft.Json.Compact.dll
+C:\vs2008Projects\3SeriesZipcodeToLatLon\3SeriesZipcodeToLatLon\obj\Debug\ResolveAssemblyReference.cache
+C:\vs2008Projects\3SeriesZipcodeToLatLon\3SeriesZipcodeToLatLon\obj\Debug\3SeriesZipcodeToLatLon.dll
+C:\vs2008Projects\3SeriesZipcodeToLatLon\3SeriesZipcodeToLatLon\obj\Debug\3SeriesZipcodeToLatLon.pdb
+C:\vs2008Projects\3SeriesZipcodeToLatLon\3SeriesZipcodeToLatLon\bin\Debug\SimplSharpReflectionInterface.dll
+C:\vs2008Projects\3SeriesZipcodeToLatLon\3SeriesZipcodeToLatLon\bin\Debug\UsCanadaLatLonGMTOffset.csv
+C:\Users\tgray\Documents\GitHub\CrestronZipCodeToLatLon\3SeriesZipcodeToLatLon\3SeriesZipcodeToLatLon\bin\Debug\UsCanadaLatLonGMTOffset.csv
+C:\Users\tgray\Documents\GitHub\CrestronZipCodeToLatLon\3SeriesZipcodeToLatLon\3SeriesZipcodeToLatLon\bin\Debug\3SeriesZipcodeToLatLon.dll
+C:\Users\tgray\Documents\GitHub\CrestronZipCodeToLatLon\3SeriesZipcodeToLatLon\3SeriesZipcodeToLatLon\bin\Debug\3SeriesZipcodeToLatLon.pdb
+C:\Users\tgray\Documents\GitHub\CrestronZipCodeToLatLon\3SeriesZipcodeToLatLon\3SeriesZipcodeToLatLon\bin\Debug\Newtonsoft.Json.Compact.dll
+C:\Users\tgray\Documents\GitHub\CrestronZipCodeToLatLon\3SeriesZipcodeToLatLon\3SeriesZipcodeToLatLon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tgray\Documents\GitHub\CrestronZipCodeToLatLon\3SeriesZipcodeToLatLon\3SeriesZipcodeToLatLon\obj\Debug\3SeriesZipcodeToLatLon.dll
+C:\Users\tgray\Documents\GitHub\CrestronZipCodeToLatLon\3SeriesZipcodeToLatLon\3SeriesZipcodeToLatLon\obj\Debug\3SeriesZipcodeToLatLon.pdb

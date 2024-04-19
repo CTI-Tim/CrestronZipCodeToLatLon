@@ -6,7 +6,15 @@
 //This matches the requirement for the astronomical clock symbol
 
 #CATEGORY "46" "Location Translation" // Custom 
-#User_SimplSharp_Library "4SeriesZipcodeToLatLon"   
+ 
+#IF_SERIES3
+#User_SimplSharp_Library "3SeriesZipcodeToLatLon"
+#ENDIF
+
+#IF_SERIES4
+#User_SimplSharp_Library "4SeriesZipcodeToLatLon"  
+#ENDIF
+ 
 #Help_Begin
 works for 5 digit US zipcodes only
 information is output only on program start  
